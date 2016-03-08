@@ -6,6 +6,11 @@
 # Reset
 Color_Off="\[\033[0m\]"       # Text Reset
 
+# xterm256 colors
+Blue1="\[\033[38;5;75m\]"
+Blue2="\[\033[38;5;32m\]"
+Orange1="\[\033[38;5;214m\]"
+
 # Regular Colors
 Black="\[\033[0;30m\]"        # Black
 Red="\[\033[0;31m\]"          # Red
