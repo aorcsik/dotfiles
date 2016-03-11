@@ -5,7 +5,7 @@ set backspace=2
 syntax on
 set number
 
-colorscheme molokai
+colorscheme onedark
 
 set smartindent
 set tabstop=4
